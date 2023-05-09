@@ -13,4 +13,6 @@ sudo su
 
 After installation : sudo su , samba
 
-Install rsat for Windows for administration ad dc (users,folders)
+Install rsat for Windows for administration ad dc (users,folders) 
+
+https://www.microsoft.com/ru-RU/download/details.aspx?id=45520
