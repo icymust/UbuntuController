@@ -1,5 +1,3 @@
-hostnamectl set-hostname dc1
-su root
 sed -i 's/ubuntu-server/dc1 dc1.nkitp21.lab/' /etc/hosts
 apt update
 apt install -y samba smbclient winbind libpam-winbind libnss-winbind krb5-kdc libpam-krb5 
