@@ -1,4 +1,4 @@
-## UbuntuController
+## Ubuntu Server 20.04 Controller
 hostnamectl set-hostname dc1
 
 su root
