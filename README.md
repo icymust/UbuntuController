@@ -12,3 +12,5 @@ sudo su
 ./install.sh
 
 After installation : sudo su , samba
+
+Install rsat for Windows for administration ad dc (users,folders)
